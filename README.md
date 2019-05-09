@@ -11,6 +11,13 @@ We used a MBED to control colored LED lighting dynamically through multiple thre
 ### Week1 
 We manipulated LEDs with PWM and MBED.
 
+```markdown
+**Images from Week 1**
+
+![Image1](/IMG_6808.jpeg) ![Image2](/IMG_6809.jpeg)
+
+```
+
 ### Week 2
 We had the new board.
 
