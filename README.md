@@ -35,8 +35,17 @@ __Images from Week 3__
 
 ![Image5](/IMG_6845 copy.jpg)
 
+#### Our breadboard for Baseline demo (Clunky and No Dashboard):
+![Image4](/IMG_6865 copy.jpg)
+
 ### Week 4: Reach Demo
 Research into sleep data; adjust staging and display REM, NREM, and wake information.
+
+__Images from Week 3__
+
+#### Our Final Breadboard with Dashboard:
+![Image3](/IMG_6869.jpg)
+
 
 ### Schematic
 
