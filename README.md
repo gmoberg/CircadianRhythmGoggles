@@ -1,15 +1,14 @@
-## Welcome to GitHub Pages
-
-
+## Our Goggles in Action
 ![Goggles in Action](/Screen Shot 2019-05-01 at 12.03.16 AM.png)
 
-Testing Edit
+### Motivation
+Circadian Rhythm Sleep Disorders (CRSD) is a condition that is characterized by various psychological and physiological effects, such as fatigue, irritability, poor concentration, and work errors. It affects health, working and living. Besides Jet lag, CRSDs affects shift workers, and cause “social jet lag” in the irregular sleeping population. Current treatments to CRSDs are medicine like Melatonin and light therapy by using blue lights such as Re-timer, Sunbox, Lumos and Verilux. None of those light therapies are FDA approved and the general outcomes of those methods are poor.
 
-You can use the [editor on GitHub](https://github.com/gmoberg/CircadianRhythmGoggles/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### How We Did It
+We used a MBED to control colored LED lighting dynamically through multiple threads. We adjusted both the lux and wavelength of the light throughout a night to adhere to the stakeholders protocols. We had different stages of sleep cycle and in each stage we showed different lighting. The three stages were awake, non-REM sleep, and REM sleep. To progress from one stage to another, the patient has to have a low enough heart rate and a fast enough eye movement rate. We have three electrodes that measure the patients heart rate and three that measure the patients eye movement. We continuously take readings and if the patient meets the thresholds for the next stage, then the lights will change to help the patient transition into that stage. If the patient does not meet the threshold values, then they restart the current stage they are in.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
