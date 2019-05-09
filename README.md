@@ -13,7 +13,7 @@ We manipulated LEDs with PWM and MBED.
 
 __Images from Week 1__
 
-![Image1](/IMG_6808.jpeg) ![Image2](/IMG_6809.jpeg)
+![Image1](/IMG_6808 copy.jpeg) ![Image2](/IMG_6809 copy.jpeg)
 
 
 ### Week 2
