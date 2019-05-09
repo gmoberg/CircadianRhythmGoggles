@@ -1,5 +1,5 @@
 ## Our Goggles in Action
-![Goggles in Action](/Screen Shot 2019-05-01 at 12.03.16 AM.png)
+![Goggles in Action](/Screen Shot 2019-05-01 at 12.03.16 AM.png | height=1000)
 
 ### Motivation
 Circadian Rhythm Sleep Disorders (CRSD) is a condition that is characterized by various psychological and physiological effects, such as fatigue, irritability, poor concentration, and work errors. It affects health, working and living. Besides Jet lag, CRSDs affects shift workers, and cause “social jet lag” in the irregular sleeping population. Current treatments to CRSDs are medicine like Melatonin and light therapy by using blue lights such as Re-timer, Sunbox, Lumos and Verilux. None of those light therapies are FDA approved and the general outcomes of those methods are poor.
@@ -13,7 +13,7 @@ We manipulated LEDs with PWM and MBED.
 
 __Images from Week 1__
 
-![Image1](/IMG_6808 copy.jpg) ![Image2](/IMG_6809 copy.jpg)
+![Image1](/IMG_6808 copy.jpg | height=1000) ![Image2](/IMG_6809 copy.jpg | height=1000)
 
 
 ### Week 2
@@ -28,12 +28,12 @@ EOG, ECG, RGBW LED strip with brightness and color control.
 __Images from Week 3__
 
 #### My heartbeat on the scope:
-![Image3](/IMG_6831 copy.jpg)
+![Image3](/IMG_6831 copy.jpg | height=1000)
 
 #### Pictures of our beautiful faces with the electrodes on them:
-![Image4](/IMG_6842 copy.jpg)
+![Image4](/IMG_6842 copy.jpg | height=1000)
 
-![Image5](/IMG_6845 copy.jpg)
+![Image5](/IMG_6845 copy.jpg | height=1000)
 
 ### Week 4: Reach Demo
 Research into sleep data; adjust staging and display REM, NREM, and wake information.
