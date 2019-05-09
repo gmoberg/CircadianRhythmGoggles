@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+
+![Goggles in Action](/Screen Shot 2019-05-01 at 12.03.16 AM.png)
+
+
 You can use the [editor on GitHub](https://github.com/gmoberg/CircadianRhythmGoggles/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
