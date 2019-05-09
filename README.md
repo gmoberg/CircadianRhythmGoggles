@@ -19,8 +19,20 @@ __Images from Week 1__
 ### Week 2
 We had the new board.
 
+
+
 ### Week 3: Baseline Demo
 EOG, ECG, RGBW LED strip with brightness and color control.
+
+
+__Images from Week 3__
+My heartbeat on the scope:
+![Image3](/IMG_6831 copy.jpg)
+
+Pictures of our beautiful faces with the electrodes on them:
+![Image4](/IMG_6842 copy.jpg)
+
+![Image5](/IMG_6845 copy.jpg)
 
 ### Week 4: Reach Demo
 Research into sleep data; adjust staging and display REM, NREM, and wake information.
