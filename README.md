@@ -1,5 +1,5 @@
 ## Our Goggles in Action
-![Goggles in Action](/Screen Shot 2019-05-01 at 12.03.16 AM.png | height=1000)
+![Goggles in Action](/Screen Shot 2019-05-01 at 12.03.16 AM.png =x1000)
 
 ### Motivation
 Circadian Rhythm Sleep Disorders (CRSD) is a condition that is characterized by various psychological and physiological effects, such as fatigue, irritability, poor concentration, and work errors. It affects health, working and living. Besides Jet lag, CRSDs affects shift workers, and cause “social jet lag” in the irregular sleeping population. Current treatments to CRSDs are medicine like Melatonin and light therapy by using blue lights such as Re-timer, Sunbox, Lumos and Verilux. None of those light therapies are FDA approved and the general outcomes of those methods are poor.
