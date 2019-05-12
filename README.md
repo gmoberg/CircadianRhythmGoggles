@@ -11,6 +11,8 @@ We used a MBED to control colored LED lighting dynamically through multiple thre
 ### Week1 
 We manipulated LEDs with PWM and MBED.
 
+Before working with the LED Matrix board, we first wanted to get the project working with RGB LEDs from the lab. We were able to output the the LEDs with PWM out pins on the MBED.
+
 __Images from Week 1__
 
 ![Image1](/IMG_6808 copy.jpg) ![Image2](/IMG_6809 copy.jpg)
