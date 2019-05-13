@@ -1,6 +1,24 @@
 ## Our Goggles in Action
 ![Goggles in Action](/Screen Shot 2019-05-01 at 12.03.16 AM.png)
 
+## Original Baseline Goals
+● Construct comfortable goggles with dynamic light emission and rechargeable battery.
+
+● Programmatically filter lux and wavelength of a matrix of colored LEDs based on medical
+protocols.
+
+● Measure brain pulse activity for medical analysis of device.
+
+## Updated Goals
+● Measure EOG activity and use feedback to determine stage of sleep on patient
+
+● Measure Heart Rate and use feedback to determine stage of sleep on patient 
+
+● Emit light that follows the trajectory based on data from Doctor 
+
+● Create a Dashboard for the administrator of the test to follow the progress of the patient
+
+
 ### Motivation
 Circadian Rhythm Sleep Disorders (CRSD) is a condition that is characterized by various psychological and physiological effects, such as fatigue, irritability, poor concentration, and work errors. It affects health, working and living. Besides Jet lag, CRSDs affects shift workers, and cause “social jet lag” in the irregular sleeping population. Current treatments to CRSDs are medicine like Melatonin and light therapy by using blue lights such as Re-timer, Sunbox, Lumos and Verilux. None of those light therapies are FDA approved and the general outcomes of those methods are poor.
 
