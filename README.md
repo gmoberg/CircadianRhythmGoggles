@@ -65,11 +65,15 @@ __Images from Week 3__
 
 
 ### Week 4: Reach Demo
-Research into sleep data; adjust staging and display REM, NREM, and wake information.
+For our reach demo, we read several medical papers to determine new thresholds for stage progression.  Essentially, we wanted to ensure that a patient progresses from wakefulness to NREM sleep to REM sleep.  We found ranges of heart rate and blink rate and used averages of different data sets to determine new threshold values betweeen stages.  In general, as the patient gets into deeper sleep the heart rate decreases while the blink rate decreases.  
+
+From these new threshold values, we also added display information on our breadboard such that a different LED shows a patients current sleep stage.
+
+Research into sleep data; adjust staging and display REM, NREM, and wake information.  
 
 insert more here about improvements from baseline to reach etc. 
 
-__Images from Week 3__
+__Images from Week 4__
 
 #### Our Final Breadboard with Dashboard:
 ![Image3](/IMG_6869.jpeg)
