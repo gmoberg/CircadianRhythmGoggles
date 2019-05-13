@@ -86,6 +86,6 @@ __Images from Week 4__
 
 ● GPIO:  Initially, we thought that the NeoPixel strip operated from PWM, but this was not the case.  Instead, this product uses GPIO, which changes the intensity of each individual bulbs by processing streams of pulses.  This is similar to serial communication but only uses one data wire.  We found a library for this product with RGB communication but as the model we ordered was RGBW, we had to edit this library, including some sections of assembly code for pulse communication, to make our data sending array 32-bit alligned instead of 24-bit alligned.
 
-● Measure brain pulse activity for medical analysis of device.
+● Signal processing:  After initially analyzing oscilloscope output, we created special objects to handle the detection of blinks and heart beats.  In general, these objects included doing readings or multiple readings and using a moving average filter to determine if the given signal has changed enough to merit being considered a heart beat or a blink.
 
 
