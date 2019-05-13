@@ -67,11 +67,9 @@ __Images from Week 3__
 ### Week 4: Reach Demo
 For our reach demo, we read several medical papers to determine new thresholds for stage progression.  Essentially, we wanted to ensure that a patient progresses from wakefulness to NREM sleep to REM sleep.  We found ranges of heart rate and blink rate and used averages of different data sets to determine new threshold values betweeen stages.  In general, as the patient gets into deeper sleep the heart rate decreases while the blink rate decreases.  
 
-From these new threshold values, we also added display information on our breadboard such that a different LED shows a patients current sleep stage.
+From these new threshold values, we also added display information on our breadboard such that a different LED shows a patient's current sleep stage.  We also made our circuit layout more compact and manageable by decreasing the board size and limiting extraneous connections.  For demo purposes, we added a parallel NeoStrip LED strip that would display the same color scheme as the board.  Furthermore, we added a semi-transparent filter in the goggle chamber in order to display a uniform color from the patient's point of view and increase patient comfort by decreasing brightness.
 
-Research into sleep data; adjust staging and display REM, NREM, and wake information.  
-
-insert more here about improvements from baseline to reach etc. 
+We also experimented with using MQTT so that monitoring and staging decisions could be executed on one MBED while another MBED would control the LED strip and be attached to the goggle apparatus.  As creating direct communication to devices with changing IP addresses proved to be difficult, we instead tried to host an MQTT broker on a laptop.  MQTT works on a topic publish/subscribe model and therefore needs a central server to manage topic information and forward data to subscribing topics.  Connectivity with the central server was too dificult given the amount of time we had remaining, so this portion of the project was abandoned and the project was refactored back into a one MBED system.
 
 __Images from Week 4__
 
