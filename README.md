@@ -82,7 +82,10 @@ __Images from Week 4__
 ![Schematic](/Screen Shot 2019-05-12 at 4.59.39 PM.png)
 
 ### Software Technologies
+● MBED Concurrency:  We used a multiple thread model with shared data structures such that all sensing information operated independently of stage decisions and also the light display thread.  We also had to resolve issues with the analog reading registers which we originally thought to be separate resources but in the inital implementation caused deadlock between the heart rate and blink detection threads.
 
-### Experiments
-MQTT
+● GPIO:  Initially, we thought that the NeoPixel strip operated from PWM, but this was not the case.  Instead, this product uses GPIO, which changes the intensity of each individual bulbs by processing streams of pulses.  This is similar to serial communication but only uses one data wire.  We found a library for this product with RGB communication but as the model we ordered was RGBW, we had to edit this library, including some sections of assembly code for pulse communication, to make our data sending array 32-bit alligned instead of 24-bit alligned.
+
+● Measure brain pulse activity for medical analysis of device.
+
 
